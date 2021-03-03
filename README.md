@@ -9,10 +9,15 @@ Já o arquivo [Indicadores_CRTE.pbix](https://github.com/kheronn/Indicadores-CRT
 
 Claro que é só uma ideia, mas com o intenso trabalho priorizei poucos campos na hora de inserir a informação.
 
-###Importante
+
+
+## Tutorial
+
+Escrevi um breve relato/tutorial dos passos para começar a elaboração. Disponível aqui [Transformando o trabalho em números com Power BI](https://kheronn-machado.medium.com/transformando-o-trabalho-em-n%C3%BAmeros-com-power-bi-94e62914291)
+
+### Importante
 
 > Ao abrir o arquivo no Power BI será exibido erros ao carregar a planilha, já que ela está vazia.
 > Portanto, a ideia é vincular a uma planilha já com dados.
-
 
 
